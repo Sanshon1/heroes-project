@@ -1,7 +1,5 @@
 package com.epam.heroes_game
 
-import com.epam.heroes_game.models.GameManager
-
 object Start extends Exception {
   def main(args: Array[String]): Unit = {
 
